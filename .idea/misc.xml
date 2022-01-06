@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ALL Learning Apps/All Apps Watch &amp; Learn/Android Practice/Friends_App/app/src/main/res/layout/friend_data_item.xml" value="0.27447916666666666" />
+        <entry key="..\:/ALL Learning Apps/All Apps Watch &amp; Learn/Android Practice/Friends_App/app/src/main/res/layout/friend_data_items.xml" value="0.27447916666666666" />
+        <entry key="..\:/ALL Learning Apps/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/ALL Learning Apps/app/src/main/res/layout/activity_main2.xml" value="0.27447916666666666" />
+        <entry key="..\:/ALL Learning Apps/app/src/main/res/layout/friend_data_item.xml" value="0.27447916666666666" />
+        <entry key="..\:/ALL Learning Apps/app/src/main/res/layout/friend_data_items.xml" value="0.23719165085388993" />
+        <entry key="..\:/ALL Learning Apps/app/src/main/res/layout/friend_detail_layout.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

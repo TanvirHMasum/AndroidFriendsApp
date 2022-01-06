@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Friends</string>
+    <string name="friends_detail">Friends Details</string>
+    <string name="back"><b><font color="#D70042">Back</font></b></string>
+    <string name="name">Name :</string>
+    <string name="friends_name">Friends Name</string>
+    <string name="address">Address :</string>
+    <string name="friends_address">Friends Address</string>
+    <string name="email">Email :</string>
+    <string name="friends_email">Friends Email</string>
+    <string name="phone">Phone :</string>
+    <string name="friends_phone">Friends Phone</string>
+</resources>
