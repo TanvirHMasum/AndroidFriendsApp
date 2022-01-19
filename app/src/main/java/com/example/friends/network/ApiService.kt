@@ -1,6 +1,6 @@
-package com.example.friends.services
+package com.example.friends.network
 
-import com.example.friends.data.FriendData
+import com.example.friends.models.FriendData
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Query

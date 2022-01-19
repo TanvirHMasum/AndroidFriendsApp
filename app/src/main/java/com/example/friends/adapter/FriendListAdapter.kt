@@ -9,7 +9,7 @@ import android.widget.TextView
 import androidx.cardview.widget.CardView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.friends.R
-import com.example.friends.data.FriendInfo
+import com.example.friends.models.FriendInfo
 import com.squareup.picasso.Picasso
 
 class FriendListAdapter(

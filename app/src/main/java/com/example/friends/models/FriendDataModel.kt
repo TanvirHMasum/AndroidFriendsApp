@@ -1,4 +1,4 @@
-package com.example.friends.data
+package com.example.friends.models
 
 data class FriendData(
     val results: List<FriendInfo>

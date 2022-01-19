@@ -1,6 +1,6 @@
-package com.example.friends.services
+package com.example.friends.network
 
-import com.example.friends.data.ConstantData
+import com.example.friends.models.ConstantData
 import com.google.gson.GsonBuilder
 import com.squareup.picasso.BuildConfig
 import okhttp3.logging.HttpLoggingInterceptor

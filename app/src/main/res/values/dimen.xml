@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_size_10sp">10sp</dimen>
+    <dimen name="font_size_12sp">12sp</dimen>
+    <dimen name="font_size_14sp">14sp</dimen>
+    <dimen name="font_size_16sp">16sp</dimen>
+    <dimen name="font_size_18sp">18sp</dimen>
+    <dimen name="font_size_20sp">20sp</dimen>
+    <dimen name="font_size_22sp">22sp</dimen>
+    <dimen name="font_size_24sp">24sp</dimen>
+    <dimen name="font_size_26sp">26sp</dimen>
+    <dimen name="font_size_28sp">28sp</dimen>
+    <dimen name="font_size_30sp">30sp</dimen>
+    <dimen name="font_size_35sp">35sp</dimen>
+    <dimen name="font_size_40sp">40sp</dimen>
+
+    <dimen name="spacing_3dp">@dimen/_3sdp</dimen>
+    <dimen name="spacing_5dp">@dimen/_5sdp</dimen>
+    <dimen name="spacing_7dp">@dimen/_7sdp</dimen>
+    <dimen name="spacing_9dp">@dimen/_9sdp</dimen>
+    <dimen name="spacing_10dp">@dimen/_10sdp</dimen>
+    <dimen name="spacing_12dp">@dimen/_12sdp</dimen>
+    <dimen name="spacing_14dp">@dimen/_14sdp</dimen>
+    <dimen name="spacing_16dp">@dimen/_16sdp</dimen>
+    <dimen name="spacing_18dp">@dimen/_18sdp</dimen>
+    <dimen name="spacing_20dp">@dimen/_20sdp</dimen>
+    <dimen name="spacing_22dp">@dimen/_22sdp</dimen>
+    <dimen name="spacing_24dp">@dimen/_24sdp</dimen>
+    <dimen name="spacing_26dp">@dimen/_26sdp</dimen>
+    <dimen name="spacing_28dp">@dimen/_28sdp</dimen>
+    <dimen name="spacing_30dp">@dimen/_30sdp</dimen>
+    <dimen name="spacing_32dp">@dimen/_32sdp</dimen>
+    <dimen name="spacing_34dp">@dimen/_34sdp</dimen>
+    <dimen name="spacing_36dp">@dimen/_36sdp</dimen>
+    <dimen name="spacing_38dp">@dimen/_38sdp</dimen>
+    <dimen name="spacing_40dp">@dimen/_40sdp</dimen>
+</resources>
